@@ -1,0 +1,2 @@
+# steak.js
+steaks init!
